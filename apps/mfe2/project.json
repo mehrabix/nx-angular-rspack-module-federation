@@ -1,0 +1,100 @@
+{
+  "name": "mfe2",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "prefix": "app",
+  "sourceRoot": "apps/mfe2/src",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/rspack:rspack",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "target": "web",
+        "rspackConfig": "apps/mfe2/rspack.config.js",
+        "outputPath": "dist/mfe2/rspack",
+        "main": "apps/mfe2/src/main.ts",
+        "tsConfig": "apps/mfe2/tsconfig.app.json",
+        "assets": ["apps/mfe2/src/favicon.ico", "apps/mfe2/src/assets"]
+      },
+      "configurations": {
+        "development": {
+          "mode": "development"
+        },
+        "production": {
+          "mode": "production",
+          "optimization": true,
+          "sourceMap": false
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "build-wp": {
+      "executor": "@angular-devkit/build-angular:browser",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/mfe2/webpack",
+        "index": "apps/mfe2/src/index.html",
+        "main": "apps/mfe2/src/main.ts",
+        "polyfills": ["zone.js"],
+        "tsConfig": "apps/mfe2/tsconfig.app.json",
+        "assets": ["apps/mfe2/src/favicon.ico", "apps/mfe2/src/assets"],
+        "styles": ["apps/mfe2/src/styles.css"],
+        "scripts": []
+      },
+      "configurations": {
+        "production": {
+          "outputHashing": "all",
+          "extractLicenses": false
+        },
+        "development": {
+          "buildOptimizer": false,
+          "optimization": false,
+          "vendorChunk": true,
+          "extractLicenses": false,
+          "sourceMap": true,
+          "namedChunks": true
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "build-es": {
+      "executor": "@nx/angular:application",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/mfe2/esbuild",
+        "index": "apps/mfe2/src/index.html",
+        "browser": "apps/mfe2/src/main.ts",
+        "polyfills": ["zone.js"],
+        "tsConfig": "apps/mfe2/tsconfig.app.json",
+        "assets": ["apps/mfe2/src/favicon.ico", "apps/mfe2/src/assets"],
+        "styles": ["apps/mfe2/src/styles.css"],
+        "scripts": []
+      },
+      "configurations": {
+        "production": {
+          "outputHashing": "all",
+          "extractLicenses": false
+        },
+        "development": {
+          "optimization": false,
+          "extractLicenses": false,
+          "sourceMap": true
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "serve": {
+      "executor": "@nx/rspack:dev-server",
+      "options": {
+        "port": 3002
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "mfe2:build:development"
+        }
+      },
+      "defaultConfiguration": "development"
+    }
+  }
+}

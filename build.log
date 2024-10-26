@@ -1,0 +1,1313 @@
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 11:07 .
+drwxr-xr-x 3 runner docker 4.0K May  1 11:07 ..
+-rw-r--r-- 1 runner docker  566 May  1 11:07 index.html
+-rw-r--r-- 1 runner docker 422K May  1 11:07 main.a3ed9c5b82f3d83228d8.js
+-rw-r--r-- 1 runner docker  33K May  1 11:07 polyfills.61249712ff98a87fea6a.js
+-rw-r--r-- 1 runner docker  499 May  1 11:07 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   86 May  1 11:07 styles.ea198d9757440874694a.css
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 11:11 .
+drwxr-xr-x 3 runner docker 4.0K May  1 11:11 ..
+-rw-r--r-- 1 runner docker  566 May  1 11:11 index.html
+-rw-r--r-- 1 runner docker 422K May  1 11:11 main.a3ed9c5b82f3d83228d8.js
+-rw-r--r-- 1 runner docker  33K May  1 11:11 polyfills.61249712ff98a87fea6a.js
+-rw-r--r-- 1 runner docker  499 May  1 11:11 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   86 May  1 11:11 styles.ea198d9757440874694a.css
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 11:56 .
+drwxr-xr-x 3 runner docker 4.0K May  1 11:56 ..
+-rw-r--r-- 1 runner docker  566 May  1 11:56 index.html
+-rw-r--r-- 1 runner docker 421K May  1 11:56 main.bc68a9280c84297332b5.js
+-rw-r--r-- 1 runner docker  33K May  1 11:56 polyfills.60fe1a4e932056ef2c8f.js
+-rw-r--r-- 1 runner docker  499 May  1 11:56 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   86 May  1 11:56 styles.ea198d9757440874694a.css
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 11:59 .
+drwxr-xr-x 3 runner docker 4.0K May  1 11:59 ..
+-rw-r--r-- 1 runner docker  566 May  1 11:59 index.html
+-rw-r--r-- 1 runner docker 421K May  1 11:59 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  1 11:59 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  1 11:59 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  1 11:59 styles.8caa6477d1586f6b9492.css
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 12:36 .
+drwxr-xr-x 3 runner docker 4.0K May  1 12:36 ..
+-rw-r--r-- 1 runner docker  455 May  1 12:36 index.html
+-rw-r--r-- 1 runner docker 421K May  1 12:36 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  1 12:36 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  1 12:36 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  1 12:36 styles.8caa6477d1586f6b9492.css
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 12:49 .
+drwxr-xr-x 3 runner docker 4.0K May  1 12:49 ..
+-rw-r--r-- 1 runner docker  455 May  1 12:49 index.html
+-rw-r--r-- 1 runner docker 421K May  1 12:49 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  1 12:49 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  1 12:49 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  1 12:49 styles.8caa6477d1586f6b9492.css
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  1 12:50 .
+drwxr-xr-x 3 runner docker 4.0K May  1 12:50 ..
+-rw-r--r-- 1 runner docker  455 May  1 12:50 index.html
+-rw-r--r-- 1 runner docker 421K May  1 12:50 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  1 12:50 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  1 12:50 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  1 12:50 styles.8caa6477d1586f6b9492.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-MNAIRYWO.js      | main          | 180.65 kB |                48.62 kB
+polyfills-7NI4OVGA.js | polyfills     |  33.10 kB |                10.72 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 213.84 kB |                59.42 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.382 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 13.12 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.e68e7cbf8feae6b6.js      | main          | 179.83 kB |                48.18 kB
+polyfills.217bf7d4eff80d0e.js | polyfills     |  33.37 kB |                10.73 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 214.16 kB |                59.46 kB
+
+Build at: 2024-05-02T09:27:50.404Z - Hash: 610c6efabecb6db3 - Time: 17132ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:27 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:27 ..
+-rw-r--r-- 1 runner docker  455 May  2 09:27 index.html
+-rw-r--r-- 1 runner docker 421K May  2 09:27 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 09:27 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 09:27 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 09:27 styles.8caa6477d1586f6b9492.css
+total 268K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:27 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:27 ..
+-rw-r--r-- 1 runner docker  13K May  2 09:27 3rdpartylicenses.txt
+-rw-r--r-- 1 runner docker  15K May  2 09:27 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 09:27 index.html
+-rw-r--r-- 1 runner docker 180K May  2 09:27 main.e68e7cbf8feae6b6.js
+-rw-r--r-- 1 runner docker  34K May  2 09:27 polyfills.217bf7d4eff80d0e.js
+-rw-r--r-- 1 runner docker  896 May  2 09:27 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 09:27 styles.9cc1c87275a936d2.css
+total 28K
+drwxr-xr-x 3 runner docker 4.0K May  2 09:27 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:27 ..
+-rw-r--r-- 1 runner docker  14K May  2 09:27 3rdpartylicenses.txt
+drwxr-xr-x 2 runner docker 4.0K May  2 09:27 browser
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-MNAIRYWO.js      | main          | 180.65 kB |                48.62 kB
+polyfills-7NI4OVGA.js | polyfills     |  33.10 kB |                10.72 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 213.84 kB |                59.42 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.613 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 13.51 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.e68e7cbf8feae6b6.js      | main          | 179.83 kB |                48.18 kB
+polyfills.217bf7d4eff80d0e.js | polyfills     |  33.37 kB |                10.73 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 214.16 kB |                59.46 kB
+
+Build at: 2024-05-02T09:29:26.131Z - Hash: 610c6efabecb6db3 - Time: 17640ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:29 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:29 ..
+-rw-r--r-- 1 runner docker  455 May  2 09:29 index.html
+-rw-r--r-- 1 runner docker 421K May  2 09:29 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 09:29 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 09:29 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 09:29 styles.8caa6477d1586f6b9492.css
+total 268K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:29 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:29 ..
+-rw-r--r-- 1 runner docker  13K May  2 09:29 3rdpartylicenses.txt
+-rw-r--r-- 1 runner docker  15K May  2 09:29 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 09:29 index.html
+-rw-r--r-- 1 runner docker 180K May  2 09:29 main.e68e7cbf8feae6b6.js
+-rw-r--r-- 1 runner docker  34K May  2 09:29 polyfills.217bf7d4eff80d0e.js
+-rw-r--r-- 1 runner docker  896 May  2 09:29 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 09:29 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:29 .
+drwxr-xr-x 3 runner docker 4.0K May  2 09:29 ..
+-rw-r--r-- 1 runner docker  15K May  2 09:29 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 09:29 index.html
+-rw-r--r-- 1 runner docker 181K May  2 09:29 main-MNAIRYWO.js
+-rw-r--r-- 1 runner docker  34K May  2 09:29 polyfills-7NI4OVGA.js
+-rw-r--r-- 1 runner docker   85 May  2 09:29 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-MNAIRYWO.js      | main          | 180.65 kB |                48.62 kB
+polyfills-7NI4OVGA.js | polyfills     |  33.10 kB |                10.72 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 213.84 kB |                59.42 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.918 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 13.99 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.e68e7cbf8feae6b6.js      | main          | 179.83 kB |                48.18 kB
+polyfills.217bf7d4eff80d0e.js | polyfills     |  33.37 kB |                10.73 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 214.16 kB |                59.46 kB
+
+Build at: 2024-05-02T09:39:55.202Z - Hash: 610c6efabecb6db3 - Time: 18155ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 480K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:39 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:39 ..
+-rw-r--r-- 1 runner docker  455 May  2 09:39 index.html
+-rw-r--r-- 1 runner docker 421K May  2 09:39 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 09:39 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 09:39 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 09:39 styles.8caa6477d1586f6b9492.css
+total 268K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:39 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:39 ..
+-rw-r--r-- 1 runner docker  13K May  2 09:39 3rdpartylicenses.txt
+-rw-r--r-- 1 runner docker  15K May  2 09:39 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 09:39 index.html
+-rw-r--r-- 1 runner docker 180K May  2 09:39 main.e68e7cbf8feae6b6.js
+-rw-r--r-- 1 runner docker  34K May  2 09:39 polyfills.217bf7d4eff80d0e.js
+-rw-r--r-- 1 runner docker  896 May  2 09:39 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 09:39 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:39 .
+drwxr-xr-x 3 runner docker 4.0K May  2 09:39 ..
+-rw-r--r-- 1 runner docker  15K May  2 09:39 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 09:39 index.html
+-rw-r--r-- 1 runner docker 181K May  2 09:39 main-MNAIRYWO.js
+-rw-r--r-- 1 runner docker  34K May  2 09:39 polyfills-7NI4OVGA.js
+-rw-r--r-- 1 runner docker   85 May  2 09:39 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.964 seconds]
+
+::endgroup::
+::group::❌ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+
+ERROR in × unable to locate '/home/runner/work/ng-rspack/ng-rspack/src/assets/**/*' glob
+
+ERROR in × unable to locate '/home/runner/work/ng-rspack/ng-rspack/src/assets/**/*' glob
+
+Rspack 0.6.3 compiled with 2 errors in 13.61 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-02T09:58:27.951Z - Hash: 610c6efabecb6db3 - Time: 17785ms
+::endgroup::
+
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack failed
+
+Failed tasks:
+
+- ng-rspack:build:production
+
+total 496K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:58 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:58 ..
+-rw-r--r-- 1 runner docker  15K May  2 09:58 favicon.ico
+-rw-r--r-- 1 runner docker  455 May  2 09:58 index.html
+-rw-r--r-- 1 runner docker 421K May  2 09:58 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 09:58 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 09:58 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 09:58 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:58 .
+drwxr-xr-x 5 runner docker 4.0K May  2 09:58 ..
+-rw-r--r-- 1 runner docker  15K May  2 09:58 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 09:58 index.html
+-rw-r--r-- 1 runner docker 181K May  2 09:58 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  2 09:58 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  2 09:58 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 09:58 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 09:58 .
+drwxr-xr-x 3 runner docker 4.0K May  2 09:58 ..
+-rw-r--r-- 1 runner docker  15K May  2 09:58 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 09:58 index.html
+-rw-r--r-- 1 runner docker 183K May  2 09:58 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  2 09:58 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  2 09:58 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.940 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 13.26 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-02T10:02:08.450Z - Hash: 610c6efabecb6db3 - Time: 17537ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 496K
+drwxr-xr-x 2 runner docker 4.0K May  2 10:02 .
+drwxr-xr-x 5 runner docker 4.0K May  2 10:02 ..
+-rw-r--r-- 1 runner docker  15K May  2 10:02 favicon.ico
+-rw-r--r-- 1 runner docker  455 May  2 10:02 index.html
+-rw-r--r-- 1 runner docker 421K May  2 10:02 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 10:02 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 10:02 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 10:02 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  2 10:02 .
+drwxr-xr-x 5 runner docker 4.0K May  2 10:02 ..
+-rw-r--r-- 1 runner docker  15K May  2 10:02 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 10:02 index.html
+-rw-r--r-- 1 runner docker 181K May  2 10:02 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  2 10:02 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  2 10:02 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 10:02 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 10:02 .
+drwxr-xr-x 3 runner docker 4.0K May  2 10:02 ..
+-rw-r--r-- 1 runner docker  15K May  2 10:02 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 10:02 index.html
+-rw-r--r-- 1 runner docker 183K May  2 10:02 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  2 10:02 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  2 10:02 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.955 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 455 bytes [emitted]
+asset main.d093cf36117883182993.js 418 KiB [emitted] (name: main)
+asset polyfills.265ca2abb957aaffce32.js 33.4 KiB [emitted] (name: polyfills)
+asset styles.3a1ac1a1549ee6732218.js 497 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 581 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.3a1ac1a1549ee6732218.js 497 bytes
+Entrypoint polyfills 33.4 KiB = polyfills.265ca2abb957aaffce32.js
+Entrypoint main 418 KiB = main.d093cf36117883182993.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 18.72 s (edf36199ba433e38f48d)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-02T10:28:14.447Z - Hash: 610c6efabecb6db3 - Time: 19033ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 492K
+drwxr-xr-x 2 runner docker 4.0K May  2 10:28 .
+drwxr-xr-x 5 runner docker 4.0K May  2 10:28 ..
+-rw-r--r-- 1 runner docker  15K May  2 10:28 favicon.ico
+-rw-r--r-- 1 runner docker  455 May  2 10:28 index.html
+-rw-r--r-- 1 runner docker 419K May  2 10:28 main.d093cf36117883182993.js
+-rw-r--r-- 1 runner docker  34K May  2 10:28 polyfills.265ca2abb957aaffce32.js
+-rw-r--r-- 1 runner docker  497 May  2 10:28 styles.3a1ac1a1549ee6732218.js
+-rw-r--r-- 1 runner docker   84 May  2 10:28 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  2 10:28 .
+drwxr-xr-x 5 runner docker 4.0K May  2 10:28 ..
+-rw-r--r-- 1 runner docker  15K May  2 10:28 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 10:28 index.html
+-rw-r--r-- 1 runner docker 181K May  2 10:28 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  2 10:28 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  2 10:28 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 10:28 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 10:28 .
+drwxr-xr-x 3 runner docker 4.0K May  2 10:28 ..
+-rw-r--r-- 1 runner docker  15K May  2 10:28 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 10:28 index.html
+-rw-r--r-- 1 runner docker 183K May  2 10:28 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  2 10:28 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  2 10:28 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [11.084 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 13.85 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-02T12:37:11.552Z - Hash: 610c6efabecb6db3 - Time: 18139ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 496K
+drwxr-xr-x 2 runner docker 4.0K May  2 12:37 .
+drwxr-xr-x 5 runner docker 4.0K May  2 12:37 ..
+-rw-r--r-- 1 runner docker  15K May  2 12:37 favicon.ico
+-rw-r--r-- 1 runner docker  455 May  2 12:37 index.html
+-rw-r--r-- 1 runner docker 421K May  2 12:37 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 12:37 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 12:37 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 12:37 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  2 12:37 .
+drwxr-xr-x 5 runner docker 4.0K May  2 12:37 ..
+-rw-r--r-- 1 runner docker  15K May  2 12:37 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 12:37 index.html
+-rw-r--r-- 1 runner docker 181K May  2 12:37 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  2 12:37 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  2 12:37 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 12:37 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 12:37 .
+drwxr-xr-x 3 runner docker 4.0K May  2 12:37 ..
+-rw-r--r-- 1 runner docker  15K May  2 12:37 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 12:37 index.html
+-rw-r--r-- 1 runner docker 183K May  2 12:37 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  2 12:37 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  2 12:37 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.832 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 455 bytes [emitted]
+asset main.f45a5ed4b2cda7770f92.js 421 KiB [emitted] (name: main)
+asset polyfills.20dc7a7b65695a6fa4c7.js 32.8 KiB [emitted] (name: polyfills)
+asset styles.1620bfe86cca3951a762.js 499 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 583 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.1620bfe86cca3951a762.js 499 bytes
+Entrypoint polyfills 32.8 KiB = polyfills.20dc7a7b65695a6fa4c7.js
+Entrypoint main 421 KiB = main.f45a5ed4b2cda7770f92.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 13.00 s (389a9154226210f70563)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-02T12:39:01.744Z - Hash: 610c6efabecb6db3 - Time: 17340ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 496K
+drwxr-xr-x 2 runner docker 4.0K May  2 12:38 .
+drwxr-xr-x 5 runner docker 4.0K May  2 12:39 ..
+-rw-r--r-- 1 runner docker  15K May  2 12:38 favicon.ico
+-rw-r--r-- 1 runner docker  455 May  2 12:38 index.html
+-rw-r--r-- 1 runner docker 421K May  2 12:38 main.f45a5ed4b2cda7770f92.js
+-rw-r--r-- 1 runner docker  33K May  2 12:38 polyfills.20dc7a7b65695a6fa4c7.js
+-rw-r--r-- 1 runner docker  499 May  2 12:38 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  2 12:38 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  2 12:39 .
+drwxr-xr-x 5 runner docker 4.0K May  2 12:39 ..
+-rw-r--r-- 1 runner docker  15K May  2 12:39 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 12:39 index.html
+-rw-r--r-- 1 runner docker 181K May  2 12:39 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  2 12:39 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  2 12:39 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 12:39 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 12:38 .
+drwxr-xr-x 3 runner docker 4.0K May  2 12:38 ..
+-rw-r--r-- 1 runner docker  15K May  2 12:38 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 12:38 index.html
+-rw-r--r-- 1 runner docker 183K May  2 12:38 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  2 12:38 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  2 12:38 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.762 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 590 bytes [emitted]
+asset main.67ebc856a00876c8c2c7.js 412 KiB [emitted] (name: main)
+asset polyfills.81267c3ee4e2c91c00f7.js 33.6 KiB [emitted] (name: polyfills)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+asset styles.b4cc15e8ccf7f9ca0b59.js 488 bytes [emitted] (name: styles)
+Entrypoint styles 572 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.b4cc15e8ccf7f9ca0b59.js 488 bytes
+Entrypoint polyfills 33.6 KiB = polyfills.81267c3ee4e2c91c00f7.js
+Entrypoint main 412 KiB = main.67ebc856a00876c8c2c7.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 17.46 s (907b1f252bff9dea1540)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-02T16:24:41.695Z - Hash: 610c6efabecb6db3 - Time: 19463ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  2 16:24 .
+drwxr-xr-x 5 runner docker 4.0K May  2 16:24 ..
+-rw-r--r-- 1 runner docker  15K May  2 16:24 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  2 16:24 index.html
+-rw-r--r-- 1 runner docker 413K May  2 16:24 main.67ebc856a00876c8c2c7.js
+-rw-r--r-- 1 runner docker  34K May  2 16:24 polyfills.81267c3ee4e2c91c00f7.js
+-rw-r--r-- 1 runner docker   84 May  2 16:24 styles.8caa6477d1586f6b9492.css
+-rw-r--r-- 1 runner docker  488 May  2 16:24 styles.b4cc15e8ccf7f9ca0b59.js
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  2 16:24 .
+drwxr-xr-x 5 runner docker 4.0K May  2 16:24 ..
+-rw-r--r-- 1 runner docker  15K May  2 16:24 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  2 16:24 index.html
+-rw-r--r-- 1 runner docker 181K May  2 16:24 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  2 16:24 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  2 16:24 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  2 16:24 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  2 16:24 .
+drwxr-xr-x 3 runner docker 4.0K May  2 16:24 ..
+-rw-r--r-- 1 runner docker  15K May  2 16:24 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  2 16:24 index.html
+-rw-r--r-- 1 runner docker 183K May  2 16:24 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  2 16:24 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  2 16:24 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NVHNK5VX.js      | main          | 182.66 kB |                48.81 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.02 kB |                59.71 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [11.011 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 590 bytes [emitted]
+asset main.ac8d4338302bfa1d9b2f.js 412 KiB [emitted] (name: main)
+asset polyfills.5586a662b959ea0998d0.js 33.6 KiB [emitted] (name: polyfills)
+asset styles.6709cf6768d751163011.js 488 bytes [emitted] (name: styles)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+Entrypoint styles 572 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.6709cf6768d751163011.js 488 bytes
+Entrypoint polyfills 33.6 KiB = polyfills.5586a662b959ea0998d0.js
+Entrypoint main 412 KiB = main.ac8d4338302bfa1d9b2f.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 91 modules
+Rspack 0.6.3 compiled successfully in 17.70 s (6427c00eb50a65e141c4)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.fc8be2d7e6197ab2.js      | main          | 180.60 kB |                48.41 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.06 kB |                59.77 kB
+
+Build at: 2024-05-03T06:16:42.288Z - Hash: 610c6efabecb6db3 - Time: 18969ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  3 06:16 .
+drwxr-xr-x 5 runner docker 4.0K May  3 06:16 ..
+-rw-r--r-- 1 runner docker  15K May  3 06:16 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  3 06:16 index.html
+-rw-r--r-- 1 runner docker 413K May  3 06:16 main.ac8d4338302bfa1d9b2f.js
+-rw-r--r-- 1 runner docker  34K May  3 06:16 polyfills.5586a662b959ea0998d0.js
+-rw-r--r-- 1 runner docker  488 May  3 06:16 styles.6709cf6768d751163011.js
+-rw-r--r-- 1 runner docker   84 May  3 06:16 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  3 06:16 .
+drwxr-xr-x 5 runner docker 4.0K May  3 06:16 ..
+-rw-r--r-- 1 runner docker  15K May  3 06:16 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  3 06:16 index.html
+-rw-r--r-- 1 runner docker 181K May  3 06:16 main.fc8be2d7e6197ab2.js
+-rw-r--r-- 1 runner docker  34K May  3 06:16 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  3 06:16 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  3 06:16 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  3 06:16 .
+drwxr-xr-x 3 runner docker 4.0K May  3 06:16 ..
+-rw-r--r-- 1 runner docker  15K May  3 06:16 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  3 06:16 index.html
+-rw-r--r-- 1 runner docker 183K May  3 06:16 main-NVHNK5VX.js
+-rw-r--r-- 1 runner docker  34K May  3 06:16 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  3 06:16 styles-IXCL2UTK.css
+
+ NX   Running targets build, build-wp, build-es for project ng-rspack:
+
+- ng-rspack
+
+
+
+::group::✅ > nx run ng-rspack:build-es:production
+
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-KD4QAICK.js      | main          | 182.92 kB |                48.82 kB
+polyfills-6GG4SJ5I.js | polyfills     |  33.28 kB |                10.82 kB
+styles-IXCL2UTK.css   | styles        |  85 bytes |                85 bytes
+
+                      | Initial total | 216.27 kB |                59.73 kB
+
+Output location: /home/runner/work/ng-rspack/ng-rspack/dist/ng-rspack/esbuild
+
+Application bundle generation complete. [10.333 seconds]
+
+::endgroup::
+::group::✅ > nx run ng-rspack:build:production
+
+PublicPath: (none)
+asset favicon.ico 14.7 KiB [emitted]
+asset index.html 590 bytes [emitted]
+asset main.40a3807255e2da884155.js 413 KiB [emitted] (name: main)
+asset polyfills.d3f6aca39a6537afe693.js 33.6 KiB [emitted] (name: polyfills)
+asset styles.8caa6477d1586f6b9492.css 84 bytes [emitted] (name: styles)
+asset styles.947def69ce0b54a66431.js 488 bytes [emitted] (name: styles)
+Entrypoint styles 572 bytes = styles.8caa6477d1586f6b9492.css 84 bytes styles.947def69ce0b54a66431.js 488 bytes
+Entrypoint polyfills 33.6 KiB = polyfills.d3f6aca39a6537afe693.js
+Entrypoint main 413 KiB = main.40a3807255e2da884155.js
+orphan modules [orphan] 149 modules
+runtime modules 7 modules
++ 92 modules
+Rspack 0.6.3 compiled successfully in 18.41 s (f022848e42f033a3fe26)
+::endgroup::
+::group::✅ > nx run ng-rspack:build-wp:production
+
+- Generating browser application bundles (phase: setup)...
+✔ Browser application bundle generation complete.
+✔ Browser application bundle generation complete.
+- Copying assets...
+✔ Copying assets complete.
+- Generating index html...
+✔ Index html generation complete.
+
+Initial chunk files           | Names         |  Raw size | Estimated transfer size
+main.234af0b273f6001b.js      | main          | 180.87 kB |                48.40 kB
+polyfills.65a06fed85d785f0.js | polyfills     |  33.50 kB |                10.82 kB
+runtime.6c9861ca6e26c512.js   | runtime       | 896 bytes |               508 bytes
+styles.9cc1c87275a936d2.css   | styles        |  85 bytes |                51 bytes
+
+                              | Initial total | 215.33 kB |                59.76 kB
+
+Build at: 2024-05-03T07:35:10.927Z - Hash: 926da32f5a0ed53b - Time: 19888ms
+::endgroup::
+
+
+ NX   Successfully ran targets build, build-wp, build-es for project ng-rspack
+
+
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  3 07:35 .
+drwxr-xr-x 5 runner docker 4.0K May  3 07:35 ..
+-rw-r--r-- 1 runner docker  15K May  3 07:35 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  3 07:35 index.html
+-rw-r--r-- 1 runner docker 413K May  3 07:35 main.40a3807255e2da884155.js
+-rw-r--r-- 1 runner docker  34K May  3 07:35 polyfills.d3f6aca39a6537afe693.js
+-rw-r--r-- 1 runner docker   84 May  3 07:35 styles.8caa6477d1586f6b9492.css
+-rw-r--r-- 1 runner docker  488 May  3 07:35 styles.947def69ce0b54a66431.js
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  3 07:35 .
+drwxr-xr-x 5 runner docker 4.0K May  3 07:35 ..
+-rw-r--r-- 1 runner docker  15K May  3 07:35 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  3 07:35 index.html
+-rw-r--r-- 1 runner docker 181K May  3 07:35 main.234af0b273f6001b.js
+-rw-r--r-- 1 runner docker  34K May  3 07:35 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  3 07:35 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  3 07:35 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  3 07:35 .
+drwxr-xr-x 3 runner docker 4.0K May  3 07:35 ..
+-rw-r--r-- 1 runner docker  15K May  3 07:35 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  3 07:35 index.html
+-rw-r--r-- 1 runner docker 183K May  3 07:35 main-KD4QAICK.js
+-rw-r--r-- 1 runner docker  34K May  3 07:35 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  3 07:35 styles-IXCL2UTK.css
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  3 07:50 .
+drwxr-xr-x 5 runner docker 4.0K May  3 07:50 ..
+-rw-r--r-- 1 runner docker  15K May  3 07:50 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  3 07:50 index.html
+-rw-r--r-- 1 runner docker 413K May  3 07:50 main.40a3807255e2da884155.js
+-rw-r--r-- 1 runner docker  34K May  3 07:50 polyfills.d3f6aca39a6537afe693.js
+-rw-r--r-- 1 runner docker   84 May  3 07:50 styles.8caa6477d1586f6b9492.css
+-rw-r--r-- 1 runner docker  488 May  3 07:50 styles.947def69ce0b54a66431.js
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  3 07:50 .
+drwxr-xr-x 5 runner docker 4.0K May  3 07:50 ..
+-rw-r--r-- 1 runner docker  15K May  3 07:50 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  3 07:50 index.html
+-rw-r--r-- 1 runner docker 181K May  3 07:50 main.234af0b273f6001b.js
+-rw-r--r-- 1 runner docker  34K May  3 07:50 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  3 07:50 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  3 07:50 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  3 07:50 .
+drwxr-xr-x 3 runner docker 4.0K May  3 07:50 ..
+-rw-r--r-- 1 runner docker  15K May  3 07:50 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  3 07:50 index.html
+-rw-r--r-- 1 runner docker 183K May  3 07:50 main-KD4QAICK.js
+-rw-r--r-- 1 runner docker  34K May  3 07:50 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  3 07:50 styles-IXCL2UTK.css
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  3 08:20 .
+drwxr-xr-x 5 runner docker 4.0K May  3 08:20 ..
+-rw-r--r-- 1 runner docker  15K May  3 08:20 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  3 08:20 index.html
+-rw-r--r-- 1 runner docker 413K May  3 08:20 main.40a3807255e2da884155.js
+-rw-r--r-- 1 runner docker  34K May  3 08:20 polyfills.d3f6aca39a6537afe693.js
+-rw-r--r-- 1 runner docker   84 May  3 08:20 styles.8caa6477d1586f6b9492.css
+-rw-r--r-- 1 runner docker  488 May  3 08:20 styles.947def69ce0b54a66431.js
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  3 08:20 .
+drwxr-xr-x 5 runner docker 4.0K May  3 08:20 ..
+-rw-r--r-- 1 runner docker  15K May  3 08:20 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  3 08:20 index.html
+-rw-r--r-- 1 runner docker 181K May  3 08:20 main.234af0b273f6001b.js
+-rw-r--r-- 1 runner docker  34K May  3 08:20 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  3 08:20 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  3 08:20 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  3 08:20 .
+drwxr-xr-x 3 runner docker 4.0K May  3 08:20 ..
+-rw-r--r-- 1 runner docker  15K May  3 08:20 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  3 08:20 index.html
+-rw-r--r-- 1 runner docker 183K May  3 08:20 main-KD4QAICK.js
+-rw-r--r-- 1 runner docker  34K May  3 08:20 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  3 08:20 styles-IXCL2UTK.css
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  3 08:30 .
+drwxr-xr-x 5 runner docker 4.0K May  3 08:30 ..
+-rw-r--r-- 1 runner docker  15K May  3 08:30 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  3 08:30 index.html
+-rw-r--r-- 1 runner docker 415K May  3 08:30 main.414fc0b065c146b68450.js
+-rw-r--r-- 1 runner docker  33K May  3 08:30 polyfills.0086550284fc5c174ad6.js
+-rw-r--r-- 1 runner docker  499 May  3 08:30 styles.1620bfe86cca3951a762.js
+-rw-r--r-- 1 runner docker   84 May  3 08:30 styles.8caa6477d1586f6b9492.css
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  3 08:30 .
+drwxr-xr-x 5 runner docker 4.0K May  3 08:30 ..
+-rw-r--r-- 1 runner docker  15K May  3 08:30 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  3 08:30 index.html
+-rw-r--r-- 1 runner docker 181K May  3 08:30 main.234af0b273f6001b.js
+-rw-r--r-- 1 runner docker  34K May  3 08:30 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  3 08:30 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  3 08:30 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  3 08:30 .
+drwxr-xr-x 3 runner docker 4.0K May  3 08:30 ..
+-rw-r--r-- 1 runner docker  15K May  3 08:30 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  3 08:30 index.html
+-rw-r--r-- 1 runner docker 183K May  3 08:30 main-KD4QAICK.js
+-rw-r--r-- 1 runner docker  34K May  3 08:30 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  3 08:30 styles-IXCL2UTK.css
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May  5 07:45 .
+drwxr-xr-x 5 runner docker 4.0K May  5 07:45 ..
+-rw-r--r-- 1 runner docker  15K May  5 07:45 favicon.ico
+-rw-r--r-- 1 runner docker  590 May  5 07:45 index.html
+-rw-r--r-- 1 runner docker 415K May  5 07:45 main.5867769d7ad1047c3f14.js
+-rw-r--r-- 1 runner docker  33K May  5 07:45 polyfills.267aea1f3c06c8d1ff19.js
+-rw-r--r-- 1 runner docker   84 May  5 07:45 styles.57b01f490964266cb50e.css
+-rw-r--r-- 1 runner docker  499 May  5 07:45 styles.d0bec9656a0186495ff1.js
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May  5 07:45 .
+drwxr-xr-x 5 runner docker 4.0K May  5 07:45 ..
+-rw-r--r-- 1 runner docker  15K May  5 07:45 favicon.ico
+-rw-r--r-- 1 runner docker  809 May  5 07:45 index.html
+-rw-r--r-- 1 runner docker 181K May  5 07:45 main.234af0b273f6001b.js
+-rw-r--r-- 1 runner docker  34K May  5 07:45 polyfills.65a06fed85d785f0.js
+-rw-r--r-- 1 runner docker  896 May  5 07:45 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May  5 07:45 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May  5 07:45 .
+drwxr-xr-x 3 runner docker 4.0K May  5 07:45 ..
+-rw-r--r-- 1 runner docker  15K May  5 07:45 favicon.ico
+-rw-r--r-- 1 runner docker  713 May  5 07:45 index.html
+-rw-r--r-- 1 runner docker 183K May  5 07:45 main-KD4QAICK.js
+-rw-r--r-- 1 runner docker  34K May  5 07:45 polyfills-6GG4SJ5I.js
+-rw-r--r-- 1 runner docker   85 May  5 07:45 styles-IXCL2UTK.css
+total 488K
+drwxr-xr-x 2 runner docker 4.0K May 17 06:43 .
+drwxr-xr-x 5 runner docker 4.0K May 17 06:43 ..
+-rw-r--r-- 1 runner docker  15K May 17 06:43 favicon.ico
+-rw-r--r-- 1 runner docker  590 May 17 06:43 index.html
+-rw-r--r-- 1 runner docker 415K May 17 06:43 main.c91a9cdc70954c595e22.js
+-rw-r--r-- 1 runner docker  33K May 17 06:43 polyfills.ff67025650e784610eb7.js
+-rw-r--r-- 1 runner docker   84 May 17 06:43 styles.619576f9d5f1a6fc8d6f.css
+-rw-r--r-- 1 runner docker  499 May 17 06:43 styles.a5f63b4da4d9424f86ea.js
+total 256K
+drwxr-xr-x 2 runner docker 4.0K May 17 06:43 .
+drwxr-xr-x 5 runner docker 4.0K May 17 06:43 ..
+-rw-r--r-- 1 runner docker  15K May 17 06:43 favicon.ico
+-rw-r--r-- 1 runner docker  809 May 17 06:43 index.html
+-rw-r--r-- 1 runner docker 182K May 17 06:43 main.c3a802e2c2d6b6cc.js
+-rw-r--r-- 1 runner docker  34K May 17 06:43 polyfills.b8d62ff7be6a01fe.js
+-rw-r--r-- 1 runner docker  896 May 17 06:43 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 May 17 06:43 styles.9cc1c87275a936d2.css
+total 252K
+drwxr-xr-x 2 runner docker 4.0K May 17 06:43 .
+drwxr-xr-x 3 runner docker 4.0K May 17 06:43 ..
+-rw-r--r-- 1 runner docker  15K May 17 06:43 favicon.ico
+-rw-r--r-- 1 runner docker  713 May 17 06:43 index.html
+-rw-r--r-- 1 runner docker 184K May 17 06:43 main-BW2E7W2F.js
+-rw-r--r-- 1 runner docker  34K May 17 06:43 polyfills-BL375M6J.js
+-rw-r--r-- 1 runner docker   85 May 17 06:43 styles-IXCL2UTK.css
+rspack \n
+total 468K
+drwxr-xr-x 2 runner docker 4.0K Jul  2 07:43 .
+drwxr-xr-x 5 runner docker 4.0K Jul  2 07:43 ..
+-rw-r--r-- 1 runner docker  15K Jul  2 07:43 favicon.ico
+-rw-r--r-- 1 runner docker  590 Jul  2 07:43 index.html
+-rw-r--r-- 1 runner docker 396K Jul  2 07:43 main.9d6c4a7ef06a440f2f1f.js
+-rw-r--r-- 1 runner docker  34K Jul  2 07:43 polyfills.09ccf75527eaf59b0d6c.js
+-rw-r--r-- 1 runner docker  617 Jul  2 07:43 styles.e0e7fda7ebfe4a6f6d6e.js
+-rw-r--r-- 1 runner docker   84 Jul  2 07:43 styles.ef645d29da02e6aca141.css
+webpack \n
+total 256K
+drwxr-xr-x 2 runner docker 4.0K Jul  2 07:43 .
+drwxr-xr-x 5 runner docker 4.0K Jul  2 07:43 ..
+-rw-r--r-- 1 runner docker  15K Jul  2 07:43 favicon.ico
+-rw-r--r-- 1 runner docker  809 Jul  2 07:43 index.html
+-rw-r--r-- 1 runner docker 182K Jul  2 07:43 main.a93b483def359c1e.js
+-rw-r--r-- 1 runner docker  34K Jul  2 07:43 polyfills.6e67a244f817e3e4.js
+-rw-r--r-- 1 runner docker  896 Jul  2 07:43 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 Jul  2 07:43 styles.9cc1c87275a936d2.css
+esbuild \n
+total 252K
+drwxr-xr-x 2 runner docker 4.0K Jul  2 07:43 .
+drwxr-xr-x 3 runner docker 4.0K Jul  2 07:43 ..
+-rw-r--r-- 1 runner docker  15K Jul  2 07:43 favicon.ico
+-rw-r--r-- 1 runner docker  713 Jul  2 07:43 index.html
+-rw-r--r-- 1 runner docker 184K Jul  2 07:43 main-HPEBSWYP.js
+-rw-r--r-- 1 runner docker  34K Jul  2 07:43 polyfills-PSWKUJN4.js
+-rw-r--r-- 1 runner docker   85 Jul  2 07:43 styles-IXCL2UTK.css
+rspack \n
+total 256K
+drwxr-xr-x 2 runner docker 4.0K Jul  2 10:10 .
+drwxr-xr-x 5 runner docker 4.0K Jul  2 10:10 ..
+-rw-r--r-- 1 runner docker  15K Jul  2 10:10 favicon.ico
+-rw-r--r-- 1 runner docker  590 Jul  2 10:10 index.html
+-rw-r--r-- 1 runner docker 181K Jul  2 10:10 main.8402a08083f9ffd7f5d6.js
+-rw-r--r-- 1 runner docker  34K Jul  2 10:10 polyfills.491890645d75044cefc4.js
+-rw-r--r-- 1 runner docker  553 Jul  2 10:10 styles.24bed197f0b82bcfbe25.js
+-rw-r--r-- 1 runner docker   85 Jul  2 10:10 styles.9772180243f969fe9c99.css
+webpack \n
+total 256K
+drwxr-xr-x 2 runner docker 4.0K Jul  2 10:10 .
+drwxr-xr-x 5 runner docker 4.0K Jul  2 10:10 ..
+-rw-r--r-- 1 runner docker  15K Jul  2 10:10 favicon.ico
+-rw-r--r-- 1 runner docker  809 Jul  2 10:10 index.html
+-rw-r--r-- 1 runner docker 182K Jul  2 10:10 main.a93b483def359c1e.js
+-rw-r--r-- 1 runner docker  34K Jul  2 10:10 polyfills.6e67a244f817e3e4.js
+-rw-r--r-- 1 runner docker  896 Jul  2 10:10 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 Jul  2 10:10 styles.9cc1c87275a936d2.css
+esbuild \n
+total 252K
+drwxr-xr-x 2 runner docker 4.0K Jul  2 10:10 .
+drwxr-xr-x 3 runner docker 4.0K Jul  2 10:10 ..
+-rw-r--r-- 1 runner docker  15K Jul  2 10:10 favicon.ico
+-rw-r--r-- 1 runner docker  713 Jul  2 10:10 index.html
+-rw-r--r-- 1 runner docker 184K Jul  2 10:10 main-HPEBSWYP.js
+-rw-r--r-- 1 runner docker  34K Jul  2 10:10 polyfills-PSWKUJN4.js
+-rw-r--r-- 1 runner docker   85 Jul  2 10:10 styles-IXCL2UTK.css
+rspack
+total 256K
+drwxr-xr-x 2 runner docker 4.0K Jul  3 11:50 .
+drwxr-xr-x 5 runner docker 4.0K Jul  3 11:50 ..
+-rw-r--r-- 1 runner docker  15K Jul  3 11:50 favicon.ico
+-rw-r--r-- 1 runner docker  590 Jul  3 11:50 index.html
+-rw-r--r-- 1 runner docker 181K Jul  3 11:50 main.8402a08083f9ffd7f5d6.js
+-rw-r--r-- 1 runner docker  34K Jul  3 11:50 polyfills.491890645d75044cefc4.js
+-rw-r--r-- 1 runner docker  553 Jul  3 11:50 styles.957b630bce983f3246c2.js
+-rw-r--r-- 1 runner docker   85 Jul  3 11:50 styles.9772180243f969fe9c99.css
+webpack
+total 256K
+drwxr-xr-x 2 runner docker 4.0K Jul  3 11:50 .
+drwxr-xr-x 5 runner docker 4.0K Jul  3 11:50 ..
+-rw-r--r-- 1 runner docker  15K Jul  3 11:50 favicon.ico
+-rw-r--r-- 1 runner docker  809 Jul  3 11:50 index.html
+-rw-r--r-- 1 runner docker 182K Jul  3 11:50 main.586b22fd355dcb1d.js
+-rw-r--r-- 1 runner docker  34K Jul  3 11:50 polyfills.6e67a244f817e3e4.js
+-rw-r--r-- 1 runner docker  896 Jul  3 11:50 runtime.6c9861ca6e26c512.js
+-rw-r--r-- 1 runner docker   85 Jul  3 11:50 styles.9cc1c87275a936d2.css
+esbuild
+total 252K
+drwxr-xr-x 2 runner docker 4.0K Jul  3 11:50 .
+drwxr-xr-x 3 runner docker 4.0K Jul  3 11:50 ..
+-rw-r--r-- 1 runner docker  15K Jul  3 11:50 favicon.ico
+-rw-r--r-- 1 runner docker  713 Jul  3 11:50 index.html
+-rw-r--r-- 1 runner docker 184K Jul  3 11:50 main-FS4FMQS6.js
+-rw-r--r-- 1 runner docker  34K Jul  3 11:50 polyfills-PSWKUJN4.js
+-rw-r--r-- 1 runner docker   85 Jul  3 11:50 styles-IXCL2UTK.css
+rspack
+total 772K
+drwxr-xr-x 2 runner docker 4.0K Jul  3 21:12 .
+drwxr-xr-x 5 runner docker 4.0K Jul  3 21:12 ..
+-rw-r--r-- 1 runner docker 253K Jul  3 21:12 259.f0e21c407afaefc92d1b.js
+-rw-r--r-- 1 runner docker  67K Jul  3 21:12 487.63372d6c43d732c1909b.js
+-rw-r--r-- 1 runner docker  179 Jul  3 21:12 @mf-types.d.ts
+-rw-r--r-- 1 runner docker 1.1K Jul  3 21:12 @mf-types.zip
+-rw-r--r-- 1 runner docker 1.7K Jul  3 21:12 __federation_expose_app.b2c07e48a83e66498338.js
+-rw-r--r-- 1 runner docker  15K Jul  3 21:12 favicon.ico
+-rw-r--r-- 1 runner docker  766 Jul  3 21:12 index.html
+-rw-r--r-- 1 runner docker  99K Jul  3 21:12 main.2a763284103d89113f8d.js
+-rw-r--r-- 1 runner docker 1.8K Jul  3 21:12 mf-manifest.json
+-rw-r--r-- 1 runner docker 2.1K Jul  3 21:12 mf-stats.json
+-rw-r--r-- 1 runner docker  85K Jul  3 21:12 mfe1.11f8eef18944cc678363.js
+-rw-r--r-- 1 runner docker 119K Jul  3 21:12 polyfills.19572ff317c15969b5b1.js
+-rw-r--r-- 1 runner docker   85 Jul  3 21:12 styles.9772180243f969fe9c99.css
+-rw-r--r-- 1 runner docker  86K Jul  3 21:12 styles.c235a767cf7f0bf7c11f.js
+webpack
+total 160K
+drwxr-xr-x 2 runner docker 4.0K Jul  3 21:12 .
+drwxr-xr-x 5 runner docker 4.0K Jul  3 21:12 ..
+-rw-r--r-- 1 runner docker  15K Jul  3 21:12 favicon.ico
+-rw-r--r-- 1 runner docker  809 Jul  3 21:12 index.html
+-rw-r--r-- 1 runner docker  86K Jul  3 21:12 main.37ed97ca0e4da807.js
+-rw-r--r-- 1 runner docker  34K Jul  3 21:12 polyfills.733c87b21f3ac969.js
+-rw-r--r-- 1 runner docker  886 Jul  3 21:12 runtime.d947c069a8b27bc8.js
+-rw-r--r-- 1 runner docker   85 Jul  3 21:12 styles.9cc1c87275a936d2.css
+esbuild
+total 156K
+drwxr-xr-x 2 runner docker 4.0K Jul  3 21:11 .
+drwxr-xr-x 3 runner docker 4.0K Jul  3 21:11 ..
+-rw-r--r-- 1 runner docker  15K Jul  3 21:11 favicon.ico
+-rw-r--r-- 1 runner docker  713 Jul  3 21:11 index.html
+-rw-r--r-- 1 runner docker  88K Jul  3 21:11 main-S7F6LYFR.js
+-rw-r--r-- 1 runner docker  34K Jul  3 21:11 polyfills-PSWKUJN4.js
+-rw-r--r-- 1 runner docker   85 Jul  3 21:11 styles-IXCL2UTK.css

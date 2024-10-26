@@ -1,0 +1,100 @@
+{
+  "name": "host",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "prefix": "app",
+  "sourceRoot": "apps/host/src",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/rspack:rspack",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "target": "web",
+        "rspackConfig": "apps/host/rspack.config.js",
+        "outputPath": "dist/host/rspack",
+        "main": "apps/host/src/main.ts",
+        "tsConfig": "apps/host/tsconfig.app.json",
+        "assets": ["apps/host/src/favicon.ico", "apps/host/src/assets"]
+      },
+      "configurations": {
+        "development": {
+          "mode": "development"
+        },
+        "production": {
+          "mode": "production",
+          "optimization": true,
+          "sourceMap": false
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "build-wp": {
+      "executor": "@angular-devkit/build-angular:browser",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/host/webpack",
+        "index": "apps/host/src/index.html",
+        "main": "apps/host/src/main.ts",
+        "polyfills": ["zone.js"],
+        "tsConfig": "apps/host/tsconfig.app.json",
+        "assets": ["apps/host/src/favicon.ico", "apps/host/src/assets"],
+        "styles": ["apps/host/src/styles.css"],
+        "scripts": []
+      },
+      "configurations": {
+        "production": {
+          "outputHashing": "all",
+          "extractLicenses": false
+        },
+        "development": {
+          "buildOptimizer": false,
+          "optimization": false,
+          "vendorChunk": true,
+          "extractLicenses": false,
+          "sourceMap": true,
+          "namedChunks": true
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "build-es": {
+      "executor": "@nx/angular:application",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/host/esbuild",
+        "index": "apps/host/src/index.html",
+        "browser": "apps/host/src/main.ts",
+        "polyfills": ["zone.js"],
+        "tsConfig": "apps/host/tsconfig.app.json",
+        "assets": ["apps/host/src/favicon.ico", "apps/host/src/assets"],
+        "styles": ["apps/host/src/styles.css"],
+        "scripts": []
+      },
+      "configurations": {
+        "production": {
+          "outputHashing": "all",
+          "extractLicenses": false
+        },
+        "development": {
+          "optimization": false,
+          "extractLicenses": false,
+          "sourceMap": true
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "serve": {
+      "executor": "@nx/rspack:dev-server",
+      "options": {
+        "port": 3000
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "host:build:development"
+        }
+      },
+      "defaultConfiguration": "development"
+    }
+  }
+}
